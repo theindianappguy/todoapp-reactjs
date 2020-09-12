@@ -1,3 +1,11 @@
+# Todo app made with ReactJs
+
+If you like it do start the repo ♥️
+
+live : https://todoapp-5b08c.web.app
+
+![todomockup](https://user-images.githubusercontent.com/55942632/92986586-b29dfb80-f4d9-11ea-82f3-95c508d11d2e.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
